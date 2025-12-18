@@ -1,6 +1,5 @@
 ---
  name: R18 warning
- description: Prompts user to click through or go back. Has cookie to remember selection for 1 week.
+ description: Prompt to warn user of page contents.
  normalize_css: no
- load_type: d
 ...
